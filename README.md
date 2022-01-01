@@ -15,7 +15,7 @@ This quality helped me understand Cloud technologies and embrace the DevOps jour
 
 ## What am I working on?
 
-I am currently developpint a website using Django Framework.
+I am currently developping a website using Django Framework.
 
 ## What am I currently learning?
 
