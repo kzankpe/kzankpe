@@ -9,7 +9,7 @@ This quality helped me understand Cloud technologies and embrace the DevOps jour
 ## Technologies
 
 
-<img src="./assets/git.svg" alt="Git Logo" width="50" height="50"/> <img src="./assets/azure.svg" alt="Azure Logo" width="50" height="50"/> <img src="./assets/terraform.svg" alt="Terraform Logo" width="50" height="50"/><img src="./assets/Powershell.svg" alt="Powershell Logo" width="50" height="50"/> <img src="./assets/python.svg" alt="Python Logo" width="50" height="50"/> <img src="./assets/html5-original.svg" alt="HTML Logo" width="50" height="50"/> <img src="./assets/css3-original.svg" alt="CSS Logo" width="50" height="50"/><img src="./assets/django.svg" alt="Django Logo" width="50" height="50"/> 
+<img src="./assets/git.svg" alt="Git Logo" width="50" height="50"/> <img src="./assets/azure.svg" alt="Azure Logo" width="50" height="50"/> <img src="./assets/terraform.svg" alt="Terraform Logo" width="50" height="50"/><img src="./assets/PowerShell.svg" alt="Powershell Logo" width="50" height="50"/> <img src="./assets/python.svg" alt="Python Logo" width="50" height="50"/> <img src="./assets/html5-original.svg" alt="HTML Logo" width="50" height="50"/> <img src="./assets/css3-original.svg" alt="CSS Logo" width="50" height="50"/><img src="./assets/django.svg" alt="Django Logo" width="50" height="50"/> 
 
 ---
 
