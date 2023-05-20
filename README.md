@@ -33,5 +33,5 @@ I am currently developping a website using Django Framework and Bulma CSS.
 
 ## How to reach me?
 
-- Learn more about me, visit my online [resume](https://www.kzankpe.com).
+- Learn more about me, visit my online [resume](https://me.kzankpe.com).
 - Let's connect on Twitter at [@kzankpe](https://twitter.com/kzankpe)
