@@ -35,4 +35,3 @@ I am currently diving deeper into Kubernetes and exploring the world of Platform
 ## 🤝 Let's Connect
 
 - Learn more about me, visit my online [resume](https://me.kzankpe.com).
-- Let's connect on Twitter at [@kzankpe](https://twitter.com/kzankpe)
